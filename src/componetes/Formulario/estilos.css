@@ -1,0 +1,22 @@
+.form{
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.textarea, .autor{
+  width: 50%;
+  display: block;
+  border: none;
+  margin-bottom: 16px;
+  border-bottom: 1px solid #000;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+.btn-salvar{
+  width: 50%;
+  padding: 4px;
+  margin-bottom: 24px;
+  margin-top: 16px;
+}
